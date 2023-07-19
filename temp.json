@@ -1,0 +1,10 @@
+{'short_description': '', 'is_head': 'false', 'u_domain': '', 'u_group': '', 'sys_updated_on': '2023-07-12 20: 00: 08', 'u_circuitid': '63fda1391bef01100a015467624bcb7c', 'u_level': '2', 'sys_class_name': 'x_380321_cmdpost_element', 'number': '', 'sys_id': '0610fba42f443510c1dcae6df699b675', 'sys_updated_by': 'elizabeth.campbell', 'children': '6c14f0f02f0c3510c1dcae6df699b656,
+    0804f0342f0c3510c1dcae6df699b6e3', 'sys_created_on': '2023-07-12 15: 02: 39', 'element_source': '2c20f3282f443510c1dcae6df699b601', 'u_entity': '', 'u_cmdb_group': '', 'u_attributes': '', 'u_simple_name_values_2': '', 'sys_created_by': 'elizabeth.campbell', '__status': 'success', 'u_nist_control': '', 'hierarchy': '32eb15882f803110c1dcae6df699b690', 'u_root_element': '', 'sys_mod_count': '7', 'sys_tags': '', 'u_personnel_name': '', 'u_hide_fom': 'false', 
+'u_parent': '5e7a4ec42fc43110c1dcae6df699b6c0', 'configuration_item': '', 'name': 'TC12M0710G', 'category': 'circuitid', 'u_grandparent': '', 'metric_pairs': '', 'u_attribute_group': ''
+}
+
+
+{'short_description': '', 'is_head': 'false', 'u_domain': '', 'u_group': '', 'sys_updated_on': '2023-07-12 20: 00: 08', 'u_circuitid': '63fda1391bef01100a015467624bcb7c', 'u_level': '3', 'sys_class_name': 'x_380321_cmdpost_element', 'number': '', 'sys_id': '0610fba42f443510c1dcae6df699b675', 'sys_updated_by': 'elizabeth.campbell', 'children': '6c14f0f02f0c3510c1dcae6df699b656,
+    0804f0342f0c3510c1dcae6df699b6e3', 'sys_created_on': '2023-07-12 15: 02: 39', 'element_source': '2c20f3282f443510c1dcae6df699b601', 'u_entity': '', 'u_cmdb_group': '', 'u_attributes': '', 'u_simple_name_values_2': '', 'sys_created_by': 'elizabeth.campbell', '__status': 'success', 'u_nist_control': '', 'hierarchy': '7ff1acc847d91110d396c789826d433c', 'u_root_element': '', 'sys_mod_count': '7', 'sys_tags': '', 'u_personnel_name': '', 'u_hide_fom': 'false', 
+'u_parent': '', 'configuration_item': '', 'name': 'TC12M0710G', 'category': 'circuitid', 'u_grandparent': '', 'metric_pairs': '', 'u_attribute_group': ''
+}
